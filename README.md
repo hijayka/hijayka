@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Solved.ac codecoco](http://mazassumnida.wtf/api/v2/generate_badge?boj=codecoco)](https://solved.ac/codecoco/)
 
-[![Solved.ac codecoco](http://mazassumnida.wtf/api/mini/generate_badge?boj={codecoco})](https://solved.ac/{codecoco})
+[![Solved.ac codecoco](http://mazassumnida.wtf/api/mini/generate_badge?boj=codecoco)](https://solved.ac/codecoco)

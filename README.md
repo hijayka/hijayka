@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hijayka=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apihijayka)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 이거2
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hijayka)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hijayka=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hijayka=anuraghazra&show_icons=true&theme=radical)
 

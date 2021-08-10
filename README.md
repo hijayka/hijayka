@@ -24,10 +24,13 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 </div>
+이거2
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hijayka)](https://github.com/hijayka/github-readme-stats)
 
+이거2
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hijayka)](https://github.com/anuraghazra/github-readme-stats)
 
+이거3
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?hijayka)](https://github.com/hijayka/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?hijayka)](https://github.com/anuraghazra/github-readme-stats)

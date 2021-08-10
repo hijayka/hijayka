@@ -28,6 +28,9 @@ You can click the Preview link to take a look at your changes.
 이거2
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hijayka)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hijayka=anuraghazra&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hijayka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac codecoco](http://mazassumnida.wtf/api/v2/generate_badge?boj=codecoco)](https://solved.ac/codecoco/)
 

@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 </div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hijayka)](https://github.com/hijayka/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hijayka)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hijayka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Solved.ac codecoco](http://mazassumnida.wtf/api/v2/generate_badge?boj=codecoco)](https://solved.ac/codecoco/)
